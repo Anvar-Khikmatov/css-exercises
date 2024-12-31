@@ -1,0 +1,18 @@
+#id-1 {
+color: rgba(0, 0, 255, 0.8);
+font-size: 36px;
+}
+
+#id-2 {
+    font-weight: bold;
+    background-color: #42f55490;
+}
+
+.odds {
+background-color: hsla(338, 75%, 59%, 0.6);
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+ .with-fontsize{
+    font-size: 24px;
+}
